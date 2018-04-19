@@ -1,0 +1,8 @@
+17:40:27 **** Incremental Build of configuration Debug for project poj1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nada a ser feito para `main-build'.
+
+17:40:27 Build Finished (took 125ms)
+
